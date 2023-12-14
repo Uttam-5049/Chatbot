@@ -1,0 +1,1193 @@
+{
+  "Topic": "Availability",
+  "Topic_Keywords": [
+    "check the availability of this ",
+    "currently available",
+    "available",
+    "not available",
+    "Can I purchase",
+    "Check for car availability in showroom",
+    "purchase",
+    "in stock at the dealership",
+    "in stock",
+    "immediate delivery",
+    "delivery"
+  ],
+  "car_availability": [
+    {
+      "model": "Mercedes A-Class",
+      "questions": [
+        "I would like to check the availability of this Mercedes A-Class",
+        "Is the Mercedes A-Class A200 currently available at the showroom?",
+        "Can I purchase the Mercedes A-Class A200 right now?",
+        "Is the Mercedes A-Class A200 in stock at the dealership?",
+        "Is the Mercedes A-Class A200 available for immediate delivery?",
+        "Can I order the Mercedes A-Class A200 and receive it soon?",
+        "Is the Mercedes A-Class A200 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes A-Class is currently available at the showroom. \nWould you like to learn more about the Mercedes A-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes A-Classright now. \nWould you like to learn more about the Mercedes A-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes A-Class is in stock at the dealership. \nWould you like to learn more about the Mercedes A-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes A-Class is available for immediate delivery. \nWould you like to learn more about the Mercedes A-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes A-Classand receive it soon. \nWould you like to learn more about the Mercedes A-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes A-Class is available for purchase online. \nWould you like to learn more about the Mercedes A-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the Mercedes A-Class or would you prefer new recommendation model? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes B-Class",
+      "questions": [
+        " I would like to check the availability of this Mercedes B-Class",
+        "Is the Mercedes B-Class B200 currently available at the showroom?",
+        "Can I purchase the B-Class B200 right now?",
+        "Is the Mercedes B-Class B200 in stock at the dealership?",
+        "Is the Mercedes B-Class B200 available for immediate delivery?",
+        "Can I order the Mercedes B-Class B200 and receive it soon?",
+        "Is the Mercedes B-Class B200 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes B-Class is currently available at the showroom. \nWould you like to learn more about the Mercedes B-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes B-Class right now. \nWould you like to learn more about the Mercedes B-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes B-Class is in stock at the dealership. \nWould you like to learn more about the Mercedes B-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes B-Class is available for immediate delivery. \nWould you like to learn more about the Mercedes B-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes B-Class and receive it soon. \nWould you like to learn more about the Mercedes B-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes B-Class is available for purchase online. \nWould you like to learn more about the Mercedes B-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the Mercedes B200 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes C-Class",
+      "questions": [
+        "I would like to check the availability of this Mercedes C-Class",
+        "Is the Mercedes C-Class C300 currently available at the showroom?",
+        "Can I purchase the C-Class C300 right now?",
+        "Is the Mercedes C-Class C300 in stock at the dealership?",
+        "Is the Mercedes C-Class C300 available for immediate delivery?",
+        "Can I order the Mercedes C-Class C300 and receive it soon?",
+        "Is the Mercedes C-Class C300 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes C-Class is currently available at the showroom. \nWould you like to learn more about the Mercedes C-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes C-Class right now. \nWould you like to learn more about the Mercedes C-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes C-Class is in stock at the dealership. \nWould you like to learn more about the Mercedes C-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes C-Class is available for immediate delivery. \nWould you like to learn more about the Mercedes C-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes C-Class and receive it soon. \nWould you like to learn more about the Mercedes C-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes C-Class is available for purchase online. \nWould you like to learn more about the Mercedes C-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the Mercedes C-Classor would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes CLA-Class",
+      "questions": [
+        "I would like to check the availability of this Mercedes CLA-Class",
+        "Is the Mercedes CLA-Class CLA 45 currently available at the showroom?",
+        "Can I purchase the CLA-Class CLA 45 right now?",
+        "Is the Mercedes CLA-Class CLA 45 in stock at the dealership?",
+        "Is the Mercedes CLA-Class CLA 45 available for immediate delivery?",
+        "Can I order the Mercedes CLA-Class CLA 45 and receive it soon?",
+        "Is the Mercedes CLA-Class CLA 45 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes CLA-Class is currently available at the showroom. \nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes CLA-Class right now. \nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes CLA-Class is in stock at the dealership. \nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes CLA-Class is available for immediate delivery. \nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes CLA-Class and receive it soon. \nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes CLA-Class is available for purchase online. \nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the Mercedes CLA-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes E-Class",
+      "questions": [
+        "I would like to check the availability of this Mercedes E-Class",
+        "Is the Mercedes E-Class E350 currently available at the showroom?",
+        "Can I purchase the E-Class E350 right now?",
+        "Is the Mercedes E-Class E350 in stock at the dealership?",
+        "Is the Mercedes E-Class E350 available for immediate delivery?",
+        "Can I order the Mercedes E-Class E350 and receive it soon?",
+        "Is the Mercedes E-Class E350 available for purchase ?"
+      ],
+      "answers": [
+        "I'm sorry, but the Mercedes E350 is currently not available at the showroom. \nWould you like another car recommendation with similar features to the Mercedes E350 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Unfortunately, the Mercedes E350 is not available for purchase at the moment. \nWould you like another car recommendation with similar features to the Mercedes E350 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "I'm sorry, but the Mercedes E350 is currently out of stock at the dealership. \nWould you like another car recommendation with similar features to the Mercedes E350 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Unfortunately, the Mercedes E350 is not available for immediate delivery. \nWould you like another car recommendation with similar features to the Mercedes E350 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "I'm sorry, but the Mercedes E350 is currently not available for ordering. \nWould you like another car recommendation with similar features to the Mercedes E350 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "I apologize, but the Mercedes E350 is currently not available for purchase. \nWould you like another car recommendation with similar features to the Mercedes E350 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like another car recommendation with similar features or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    
+    {
+      "model": "Mercedes S-Class ",
+      "questions": [
+        "I would like to check the availability of this Mercedes S-Class",
+        "Is the Mercedes S-Class S500 currently available at the showroom?",
+        "Can I purchase the Mercedes S-Class S500 right now?",
+        "Is the Mercedes S-Class S500 in stock at the dealership?",
+        "Is the Mercedes S-Class S500 available for immediate delivery?",
+        "Can I order the Mercedes S-Class S500 and receive it soon?",
+        "Is the Mercedes S-Class S500 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes S500 is currently available at the showroom. \n\nWould you like to learn more about the Mercedes S500 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes S500 right now. \n\nWould you like to learn more about the Mercedes S500 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes S500 is in stock at the dealership. \n\nWould you like to learn more about the Mercedes S500 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes S500 is available for immediate delivery. \n\nWould you like to learn more about the Mercedes S500 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes S500 and receive it soon. \n\nWould you like to learn more about the Mercedes S500 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes S500 is available for purchase online. \n\nWould you like to learn more about the Mercedes S500 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\n\nWould you like to learn more about the Mercedes S-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes SL-Class",
+      "questions": [
+        "I would like to check the availability of this Mercedes SL-Class",
+        "Is the Mercedes SL-Class 250SL currently available at the showroom?",
+        "Can I purchase the 6 SL-Class 250SL right now?",
+        "Is the Mercedes SL-Class 250SL in stock at the dealership?",
+        "Is the Mercedes SL-Class 250SL available for immediate delivery?",
+        "Can I order the Mercedes SL-Class 250SL and receive it soon?",
+        "Is the Mercedes SL-Class 250SL available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes SL-Class is currently available at the showroom. \n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes SL-Class right now. \n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes SL-Class is in stock at the dealership. \n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes SL-Class is available for immediate delivery. \n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes SL-Class and receive it soon. \n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes SL-Class is available for purchase online. \n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\n\nWould you like to learn more about the Mercedes SL-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes SLC-Class",
+      "questions": [
+        "I would like to check the availability of this Mercedes SLC-Class",
+        "Is the Mercedes SLC-Class SLC 43 AMG currently available at the showroom?",
+        "Can I purchase the SLC-Class SLC 43 AMG right now?",
+        "Is the Mercedes SLC-Class SLC 43 AMG in stock at the dealership?",
+        "Is the Mercedes SLC-Class SLC 43 AMG available for immediate delivery?",
+        "Can I order the Mercedes SLC-Class SLC 43 AMG and receive it soon?",
+        "Is the Mercedes SLC-Class SLC 43 AMG available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes SLC-Class is currently available at the showroom. \n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes SLC-Class right now. \n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes SLC-Class is in stock at the dealership. \n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes SLC-Class is available for immediate delivery. \n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes SLC-Class and receive it soon. \n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes SLC-Class is available for purchase online. \n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\n\nWould you like to learn more about the Mercedes SLC-Class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes G-class",
+      "questions": [
+        "I would like to check the availability of this Mercedes G-class",
+        "Is the Mercedes G-class G 63 AMG currently available at the showroom?",
+        "Can I purchase the G-class G 63 AMG right now?",
+        "Is the Mercedes G-class G 63 AMG in stock at the dealership?",
+        "Is the Mercedes G-class G 63 AMG available for immediate delivery?",
+        "Can I order the Mercedes G-class G 63 AMG and receive it soon?",
+        "Is the Mercedes G-class G 63 AMG available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes G-class is currently available at the showroom. \n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes G-class right now. \n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes G-class is in stock at the dealership. \n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes G-class is available for immediate delivery. \n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes G-class and receive it soon. \n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes G-class is available for purchase online. \n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\n\nWould you like to learn more about the Mercedes G-class or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes Glc",
+      "questions": [
+        "I would like to check the availability of this Mercedes Glc",
+        "Is the Mercedes Glc currently available at the showroom?",
+        "Can I purchase the Glc 500 right now?",
+        "Is the Mercedes Glc 500 in stock at the dealership?",
+        "Is the Mercedes Glc 500 available for immediate delivery?",
+        "Can I order the Mercedes Glc 500 and receive it soon?",
+        "Is the Mercedes Glc 500 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes Glc is currently available at the showroom.\nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes Glc right now. \nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes Glc is in stock at the dealership. \nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes Glc is available for immediate delivery. \nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes Glc and receive it soon. \nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Glc is available for purchase. \nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the Mercedes Glc or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes GLE ",
+      "questions": [
+        "I would like to check the availability of this Mercedes GLE",
+        "Is the Mercedes GLE 580 AMG currently available at the showroom?",
+        "Can I purchase GLE 580 right now?",
+        "Is the Mercedes GLE 580 in stock at the dealership?",
+        "Is the Mercedes GLE 580 available for immediate delivery?",
+        "Can I order the Mercedes GLE 580 and receive it soon?",
+        "Is the Mercedes GLE 580 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes GLE 580 is currently available at the showroom. \n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes GLE 580 right now. \n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes GLE 580 is in stock at the dealership. \n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes GLE 580 is available for immediate delivery. \n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes GLE 580 and receive it soon. \n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes GLE 580 is available for purchase online. \n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\n\nWould you like to learn more about the Mercedes GLE 580 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes GLS ",
+      "questions": [
+        "I would like to check the availability of this Mercedes GLS 63",
+        "Is the Mercedes GLS 63 AMG currently available at the showroom?",
+        "Can I purchase GLS 63 right now?",
+        "Is the Mercedes GLS 63 in stock at the dealership?",
+        "Is the Mercedes GLS 63 available for immediate delivery?",
+        "Can I order the Mercedes GLS 63 and receive it soon?",
+        "Is the Mercedes GLS 63 available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes GLS 63 is currently available at the showroom. \n\nWould you like to learn more about the Mercedes GLS 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes GLS 63 right now. \n\nWould you like to learn more about the Mercedes GLS 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes GLS 63 is in stock at the dealership. \n\nWould you like to learn more about the Mercedes GGLSLE 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes GLS 63 is available for immediate delivery. \n\nWould you like to learn more about the Mercedes GLS 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes GLS 63 and receive it soon. \n\nWould you like to learn more about the Mercedes GLS 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes GLS 63 is available for purchase online. \n\nWould you like to learn more about the Mercedes GLS 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\n\nWould you like to learn more about the Mercedes GLS 63 or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes AMG GT Roadster",
+      "questions": [
+        "I would like to check the availability of this Mercedes AMG GT Roadster",
+        "Is the Mercedes AMG GT Roadster currently available at the showroom?",
+        "Can I purchase the AMG GT Roadster right now?",
+        "Is the Mercedes AMG GT Roadster in stock at the dealership?",
+        "Is the Mercedes AMG GT Roadster available for immediate delivery?",
+        "Can I order the Mercedes AMG GT Roadster and receive it soon?",
+        "Is the Mercedes AMG GT Roadster available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the Mercedes AMG GT Roadster is currently available at the showroom. \nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the Mercedes AMG GT Roadster right now. \nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes AMG GT Roadster is in stock at the dealership. \nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the Mercedes AMG GT Roadster is available for immediate delivery. \nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the Mercedes AMG GT Roadster and receive it soon. \nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the AMG GT Roadster is available for purchase. \nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the Mercedes AMG GT Roadster or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQA",
+      "questions": [
+        "I would like to check the availability of this EQA",
+        "Is the EQA currently available at the showroom?",
+        "Can I purchase the EQA right now?",
+        "Is the EQA in stock at the dealership?",
+        "Is the EQA available for immediate delivery?",
+        "Can I order the EQA and receive it soon?",
+        "Is the EQA available for purchase ?"
+      ],
+      "answers": [
+        "I'm sorry, but the EQA is currently not available at the showroom. \nWould you like another car recommendation with similar features to the EQA  or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Unfortunately, the EQA is not available for purchase at the moment. \nWould you like another car recommendation with similar features to the EQA  or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "I'm sorry, but the EQA is currently out of stock at the dealership. \nWould you like another car recommendation with similar features to the EQA  or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Unfortunately, the EQA is not available for immediate delivery. \nWould you like another car recommendation with similar features to the EQA  or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "I'm sorry, but the EQA is currently not available for ordering. \nWould you like another car recommendation with similar features to the EQA  or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "I apologize, but the EQA is currently not available for purchase. \nWould you like another car recommendation with similar features to the EQA  or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like another car recommendation with similar features or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQB",
+      "questions": [
+        "I would like to check the availability of this EQB",
+        "Is the EQB currently available at the showroom?",
+        "Can I purchase the EQB right now?",
+        "Is the EQB in stock at the dealership?",
+        "Is the EQB available for immediate delivery?",
+        "Can I order the EQB and receive it soon?",
+        "Is the EQB available for purchase ? "
+      ],
+      "answers": [
+        "Yes, the EQB is currently available at the showroom. \nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the EQB right now. \nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQB is in stock at the dealership. \nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQB is available for immediate delivery. \nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the EQB and receive it soon. \nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQB is available for purchase. \nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the the EQB or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQC",
+      "questions": [
+        "I would like to check the availability of this EQC",
+        "Is the EQC currently available at the showroom?",
+        "Can I purchase the EQC right now?",
+        "Is the EQC in stock at the dealership?",
+        "Is the EQC available for immediate delivery?",
+        "Can I order the EQC and receive it soon?",
+        "Is the EQC available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the EQC is currently available at the showroom.  \nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the EQC right now.  \nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQC is in stock at the dealership.  \nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQC is available for immediate delivery.  \nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the EQC and receive it soon.  \nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQC is available for purchase .  \nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the EQC or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQE",
+      "questions": [
+        "I would like to check the availability of this EQE",
+        "Is the EQE currently available at the showroom?",
+        "Can I purchase the EQE right now?",
+        "Is the EQE in stock at the dealership?",
+        "Is the EQE available for immediate delivery?",
+        "Can I order the EQE and receive it soon?",
+        "Is the EQE available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the EQE is currently available at the showroom.  \nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the EQE right now.  \nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQE is in stock at the dealership.  \nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQE is available for immediate delivery.  \nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the EQE and receive it soon.  \nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQE is available for purchase .  \nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the EQE or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQS",
+      "questions": [
+        "I would like to check the availability of this EQS",
+        "Is the EQS currently available at the showroom?",
+        "Can I purchase the EQS right now?",
+        "Is the EQS in stock at the dealership?",
+        "Is the EQS available for immediate delivery?",
+        "Can I order the EQS and receive it soon?",
+        "Is the EQS available for purchase ?"
+      ],
+      "answers": [
+        "Yes, the EQS is currently available at the showroom.  \nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can purchase the EQS right now.  \nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQS is in stock at the dealership.  \nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQS is available for immediate delivery.  \nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Absolutely! You can order the EQS and receive it soon.  \nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "Yes, the EQS is available for purchase .  \nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nWould you like to learn more about the EQS or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes A-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes A200 model",
+        "I Would you like to learn more about the Mercedes A200",
+        "Tell me about the Mercedes A-Class",
+        "receive more information about this specific Mercedes A-Class model",
+        "What are the specifications of the Mercedes A200?",
+        "information about the Mercedes A-Class?",
+        "Can you tell me more details about the Mercedes A-Class Sedan ?"
+      ],
+      "answers": [
+        "The Mercedes A-Class is a compact luxury car known for its agile handling and premium features.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes A-Class offers a powerful engine, comfortable interior, and advanced safety technology.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The fuel efficiency of the Mercedes A-Class varies depending on the engine and driving conditions. For example, the Mercedes A200 achieves approximately 30 MPG in combined city and highway driving.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes A-Class is available in different trim levels, including the base model, Sport Line. Each trim level offers unique features and design elements.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\ndo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes B-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes B-Class model",
+        "I Would you like to learn more about the Mercedes B-Class",
+        "Tell me more about the Mercedes B-Class or B200",
+        "What are the features of the Mercedes B-Class or B200?",
+        "Can you provide information about the Mercedes B-Class, B200?",
+        "I want to know more about the Mercedes B-Class, B200",
+        "I'm interested in the Mercedes B-Class",
+        "Tell me about the Mercedes B200 "
+      ],
+      "answers": [
+        "The Mercedes B-Class is a stylish and versatile car that combines performance with luxury.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes B200 offers a refined driving experience, modern interior design, and advanced infotainment system.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes B-Class comes with features like sporty handling, luxurious cabin, advanced safety systems, and a range of engine options.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The there is a convertible version of the Mercedes B-Class known as the Mercedes B-Class Convertible.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes C-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes model C-Class",
+        "I Would you like to learn more about the Mercedes C-Class",
+        "Tell me more about the Mercedes C-Class C300",
+        "What are the features of the Mercedes C-Class C300?",
+        "Can you provide information about the Mercedes , C-Class?",
+        "I want to know more about the Mercedes C300 , C-Class",
+        "I'm interested in the Mercedes C300 C-Class",
+        "Tell me about the Mercedes C-Class C300 "
+      ],
+      "answers": [
+        "The Mercedes C-Class is a popular luxury sedan known for its sporty performance and elegant design.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes C-Class is equipped with a powerful diesel engine, comfortable seating, and advanced driving assistance systems.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes C-Class is available in various trims including C350, C200 , C250, and C180.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes C-Class offers hybrid models such as the Mercedes C300 which combines a combustion engine with an electric motor.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    
+    {
+      "model": "Mercedes CLA-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes CLA-Class model",
+        "I Would you like to learn more about the Mercedes CLA-Class",
+        "Tell me more about the Mercedes CLA-Class or CLA 45",
+        "What are the features of the Mercedes CLA-Class or CLA 45?",
+        "Can you provide information about the Mercedes CLA-Class, CLA 45?",
+        "I want to know more about the Mercedes CLA-Class, CLA 45",
+        "I'm interested in the Mercedes CLA-Class CLA 45",
+        "Tell me about the Mercedes CLA 45 "
+      ],
+      "answers": [
+        "The Mercedes CLA-Class is a popular luxury sedan known for its sporty performance and elegant design.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes  is equipped with a powerful diesel engine, comfortable seating, and advanced driving assistance systems.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes CLA-Class is available in various trims including CLA 45, CLA 35, CLA 250.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes CLA-Class offers hybrid models such as the Mercedes C300 which combines a combustion engine with an electric motor.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes E-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes E-Class",
+        "I Would you like to learn more about the Mercedes E-Class",
+        "Tell me more about the Mercedes E-Class E350",
+        "What are the features of the Mercedes E-Class E350?",
+        "Can you provide information about the Mercedes E-Class?",
+        "I want to know more about the Mercedes E-Class",
+        "What can you tell me about the Mercedes E-Class?",
+        "Tell me about the Mercedes E-Class"
+      ],
+      "answers": [
+        "The Mercedes E-Class is a sleek and athletic coupe that offers an exhilarating driving experience.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes E-Class features a powerful engine, dynamic handling, and a luxurious interior.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes E-Class is available in a convertible variant known as the Mercedes E-Class Convertible.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes E-Class offers performance-oriented models like the  and the high-performance  with increased power and sportier features.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes S-Class ",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes S-Class ",
+        "I Would you like to learn more about the Mercedes S-Class ",
+        "Tell me more about the Mercedes S-Class  S500",
+        "What are the features of the Mercedes S-Class  S500?",
+        "Can you provide information about the Mercedes S-Class ?",
+        "I want to know more about the Mercedes S-Class ",
+        "What can you tell me about the Mercedes S-Class ?",
+        "Tell me about the Mercedes S-Class "
+      ],
+      "answers": [
+        "The Mercedes S-Class is a premium executive sedan that combines elegance, performance, and cutting-edge technology.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes S-Class offers a refined driving experience, advanced connectivity features, and a spacious cabin.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes S-Class is available with all-wheel drive  for enhanced traction and stability.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes S-Class offers hybrid models such as the Mercedes S500 plug-in hybrid, combining an electric motor with a gasoline engine.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes SL-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes SL-Class model",
+        "I Would you like to learn more about the Mercedes SL-Class",
+        "Tell me more about the Mercedes SL-Class",
+        "What are the features of the Mercedes SL-Class 250SL?",
+        "Can you provide information about the Mercedes SL-Class?",
+        "I want to know more about the Mercedes SL-Class",
+        "What can you tell me about the Mercedes SL-Class?",
+        "Tell me about the Mercedes 250SL Gran Coupe",
+        "Does the Mercedes SL-Class offer convertible models?",
+        "What are the performance options for the Mercedes SL-Class?"
+      ],
+      "answers": [
+        "The Mercedes SL-Class is a luxurious and sporty grand tourer that offers a blend of comfort and performance.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes 250SL Gran Coupe features a powerful engine, elegant four-door coupe design, and advanced driving assistance systems.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes SL-Class is available in a convertible variant known as the Mercedes SL-Class Convertible.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes SL-Class offers performance-oriented models like the  Gran Coupe with enhanced power and sportier features.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes SLC-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes SLC-Class model",
+        "I Would you like to learn more about the Mercedes SLC-Class",
+        "Tell me more about the Mercedes SLC-Class",
+        "What are the features of the Mercedes SLC-Class?",
+        "Can you provide information about the  SLC-Class?",
+        "I want to know more about the Mercedes S-Class Cabriolet",
+        "I'm interested in the Mercedes SLC-Class",
+        "Tell me about the SLC-Class",
+        "What are the advanced technologies in the Mercedes SLC-Class?"
+      ],
+      "answers": [
+        "The Mercedes SLC-Class is a luxurious and sporty grand tourer that offers a blend of comfort and performance.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes SLC-Class Gran Coupe features a powerful engine, elegant four-door coupe design, and advanced driving assistance systems.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes SLC-Class is available in a convertible variant known as the Mercedes SLC-Class Convertible.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes SLC-Class offers performance-oriented models like the  Gran Coupe with enhanced power and sportier features.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    
+    {
+      "model": "Mercedes G-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes G-Class model",
+        "I Would you like to learn more about the Mercedes G-Class",
+        "Tell me more about the Mercedes G-Class",
+        "What are the features of the Mercedes G-Class?",
+        "Can you provide information about the Mercedes G-Class?",
+        "I want to know more about the Mercedes G-Class",
+        "What can you tell me about the Mercedes G-Class?",
+        "Tell me about the Mercedes G-Class",
+        "Does the Mercedes G-Class have special feature",
+        "What kind of driving experience does the Mercedes G-Class provide?"
+      ],
+      "answers": [
+        "The Mercedes G-Class is a dynamic and sporty convertible that delivers an exhilarating open-top driving experience.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes G-Class features a retractable hardtop, powerful engines, and precise handling.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes G-Class comes with a retractable hardtop that can be raised or lowered based on your preference.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes G-Class provides a thrilling driving experience with its powerful engine options, agile handling, and precise steering.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes GLE-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes GLE-Class model",
+        "I Would you like to learn more about the Mercedes G-Class",
+        "Tell me more about the Mercedes GLE-Class",
+        "What are the features of the Mercedes GLE-Class?",
+        "Can you provide information about the Mercedes GLE-Class?",
+        "I want to know more about the Mercedes GLE-Class",
+        "What can you tell me about the Mercedes GLE-Class?",
+        "Tell me about the Mercedes GLE-Class",
+        "Does the Mercedes GLE-Class have special feature",
+        "What kind of driving experience does the Mercedes GLE-Class provide?"
+      ],
+      "answers": [
+        "The Mercedes GLE-Class is a dynamic and sporty convertible that delivers an exhilarating open-top driving experience.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes GLE-Class features a retractable hardtop, powerful engines, and precise handling.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes GLE-Class comes with a retractable hardtop that can be raised or lowered based on your preference.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes GLE-Class provides a thrilling driving experience with its powerful engine options, agile handling, and precise steering.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+
+    {
+      "model": "Mercedes GLS-Class",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes GLS-Class model",
+        "I Would you like to learn more about the Mercedes GLS-Class",
+        "Tell me more about the Mercedes GLS-Class",
+        "What are the features of the Mercedes GLS-Class?",
+        "Can you provide information about the Mercedes GLS-Class?",
+        "I want to know more about the Mercedes GLS-Class",
+        "I'm interested in the Mercedes GLS-Class",
+        "Tell me about the Mercedes GLS-Class",
+        " GLS-Class sports car?",
+        "What are the interior features of the Mercedes GLS-Class?"
+      ],
+      "answers": [
+        "The Mercedes GLS-Class is a limited-production sports car known for its iconic design and high-performance capabilities.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes GLS-Class features a powerful V8 engine, luxurious interior, and timeless aesthetics.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes GLS-Class is considered a limited-production sports car due to its exclusive production numbers, making it a rare and collectible vehicle.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes GLS-Class offers a luxurious interior with features like premium leather upholstery, aluminum accents, and modern infotainment systems.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    
+    {
+      "model": "G63 AMG",
+      "questions": [
+        "I  prefer to receive more information about this specific G63 AMG model",
+        "I Would you like to learn more about the G63 AMG",
+        "Tell me more about the G63 AMG",
+        "What are the features of the G63 AMG?",
+        "Can you provide information about the G63 AMG?",
+        "I want to know more about the G63 AMG",
+        "What can you tell me about the G63 AMG?",
+        "Tell me about the G63 AMG"
+      ],
+      "answers": [
+        "The G63 AMG is a stylish and sporty compact SUV that combines agility with practicality.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The G63 AMG features a distinctive design, dynamic performance, and a range of advanced driver assistance systems.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The G63 AMG boasts a sporty design with coupe-like proportions, sculpted lines, and bold accents.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The G63 AMG delivers engaging driving dynamics with its responsive steering, precise handling, and available  Sport suspension.   \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "Mercedes AMG GT Roadster",
+      "questions": [
+        "I  prefer to receive more information about this specific Mercedes AMG GT Roadster model",
+        "I Would you like to learn more about the Mercedes AMG GT Roadster",
+        "Tell me more about the Mercedes AMG GT Roadster ",
+        "What are the features of the Mercedes AMG GT Roadster ?",
+        "Can you provide information about the Mercedes AMG GT Roadster ?",
+        "I want to know more about the Mercedes AMG GT Roadster ",
+        "What can you tell me about the Mercedes AMG GT Roadster?",
+        "Tell me about the Mercedes AMG GT Roadster",
+        "what is the Mercedes AMG GT Roadster design?",
+        "What are the capabilities of the Mercedes AMG GT Roadster?"
+      ],
+      "answers": [
+        "The Mercedes AMG GT Roadster is a stylish and athletic SUV that blends coupe-like design with SUV versatility.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes AMG GT Roadster features a bold and distinctive design, powerful engines, and advanced technology.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes AMG GT Roadster showcases a coupe-like design with its sloping  roof top, sculpted body lines, and aggressive stance.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The Mercedes AMG GT Roadster offers impressive performance with its range of engine options, sport-tuned suspension, and available M Performance enhancements.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    
+    {
+      "model": "EQA",
+      "questions": [
+        "I  prefer to receive more information about this specific EQA model",
+        "I Would you like to learn more about the EQA",
+        "Tell me more about the EQA ",
+        "What are the features of the EQA ?",
+        "Can you provide information about the EQA ?",
+        "I want to know more about the EQA ",
+        "What can you tell me about the EQA?",
+        "Tell me about the EQA",
+        "what is the EQA design?",
+        "What are the capabilities of the EQA?"
+      ],
+      "answers": [
+        "The EQA is a stylish and athletic SUV that blends coupe-like design with SUV versatility.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQA features a bold and distinctive design, powerful engines, and advanced technology.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQA showcases a coupe-like design with its sloping  roof top, sculpted body lines, and aggressive stance.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQA offers impressive performance with its range of engine options, sport-tuned suspension, and available M Performance enhancements.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQB",
+      "questions": [
+        "I  prefer to receive more information about this specific EQB model",
+        "I Would you like to learn more about the EQB",
+        "Tell me more about the EQB ",
+        "What are the features of the EQB ?",
+        "Can you provide information about the EQB ?",
+        "I want to know more about the EQB ",
+        "Tell me more about the EQB",
+        "What are the features of the EQB?"
+      ],
+      "answers": [
+        "The EQB is a luxurious and capable SUV that combines versatility, advanced technology, and driving pleasure.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQB features a spacious and well-appointed interior, advanced driver assistance systems, and a range of engine options.  \nDo or would you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQB is available with an optional third-row seating configuration, allowing for additional passenger capacity.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQB delivers a smooth and comfortable ride on the highway, with its refined suspension, precise steering, and advanced stability control.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQC",
+      "questions": [
+        "I  prefer to receive more information about this specific EQC model",
+        "I Would you like to learn more about the EQC",
+        "Tell me more about the EQC",
+        "What are the features of the EQC?",
+        "Can you provide information about the EQC?",
+        "I want to know more about the EQC",
+        "I'm interested in the EQC",
+        "Tell me about the EQC"
+      ],
+      "answers": [
+        "The EQC is a versatile and capable luxury SUV that offers comfort, performance, and advanced technology.   \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQC features a spacious and well-appointed interior, powerful engines, and off-road capabilities.    \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQC offers a range of engine options, including turbocharged four-cylinder and six-cylinder engines, providing a balance of power and efficiency.   \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQC is designed to handle off-road adventures with its available xDrive all-wheel drive system and rugged suspension components.   \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQE",
+      "questions": [
+        "I  prefer to receive more information about this specific EQE model",
+        "I Would you like to learn more about the EQE",
+        "Tell me more about the EQE ",
+        "What are the features of the EQE ?",
+        "Can you provide information about the EQE ?",
+        "I want to know more about the EQE ",
+        "What can you tell me about the EQE?",
+        "Tell me about the EQE",
+        "what is the EQE design?",
+        "What are the capabilities of the EQE?"
+      ],
+      "answers": [
+        "The EQE is a stylish and athletic SUV that blends coupe-like design with SUV versatility.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQE features a bold and distinctive design, powerful engines, and advanced technology.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQE showcases a coupe-like design with its sloping  roof top, sculpted body lines, and aggressive stance.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQE offers impressive performance with its range of engine options, sport-tuned suspension, and available M Performance enhancements.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    {
+      "model": "EQS",
+      "questions": [
+        "I  prefer to receive more information about this specific EQS model",
+        "I Would you like to learn more about the EQS",
+        "Tell me more about the EQS ",
+        "What are the features of the EQS ?",
+        "Can you provide information about the EQS ?",
+        "I want to know more about the EQS ",
+        "What can you tell me about the EQS?",
+        "Tell me about the EQS",
+        "what is the EQS design?",
+        "What are the capabilities of the EQS?"
+      ],
+      "answers": [
+        "The EQS is a stylish and athletic SUV that blends coupe-like design with SUV versatility.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQS features a bold and distinctive design, powerful engines, and advanced technology.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQS showcases a coupe-like design with its sloping  roof top, sculpted body lines, and aggressive stance.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation.",
+        "The EQS offers impressive performance with its range of engine options, sport-tuned suspension, and available M Performance enhancements.  \nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+      ],
+      "followup": "\nDo you prefer a completely new recommendation? \nIn case you would like a completely new recommendation please write your message in the format stated at the start of our conversation."
+    },
+    
+    
+    {
+      "model": "Mercedes A-Class",
+      "questions": [
+        "Category: Luxury, Body Shape: Hatchback, Engine Type: Gasoline, Seating Capacity: 5 seater, Price Range: 10k-30k"
+      ],
+      "answers": [
+        "If you're looking for a luxury car with a gasoline engine, a sleek hatchback body shape, seating for five passengers, and a price range between 10k-30k, I highly recommend considering the Mercedes A-Class. \nWould you like to check the availability of this Mercedes A-Class, or would you prefer to receive more information about this specific Mercedes A-Class model?",
+        "For those seeking a stylish and luxury hatchback or sedan with a gasoline engine, the Mercedes A-Class fits the bill perfectly. With comfortable seating for five and an attractive price range of 10k-30k, it offers a compelling package. \nWould you like to check the availability of this Mercedes A-Class, or would you prefer to receive more information about this specific Mercedes A-Class model?",
+        "When it comes to a combination of compact size, luxury features, and affordability, the Mercedes A-Class stands out. This hatchback with a gasoline engine is ideal for families or individuals, offering seating for five and a reasonable price range of 10k-30k. \nWould you like to check the availability of this Mercedes A-Class, or would you prefer to receive more information about this specific Mercedes A-Class model?",
+        "If you desire a premium driving experience in a luxury package, look no further than the Mercedes A-Class. With luxurious features, a gasoline engine, seating for five people, and a price range of 10k-30k, it's an excellent choice. \nWould you like to check the availability of this Mercedes A-Class, or would you prefer to receive more information about this specific Mercedes A-Class model?",
+        "The Mercedes A-Class ticks all the boxes for a compact car with luxury features. If you prefer a gasoline engine, its spirited performance and comfortable seating for five ensure a delightful journey. With a price range of 10k-30kk, it presents an attractive option for those seeking both luxury and value. \nWould you like to check the availability of this Mercedes A-Class, or would you prefer to receive more information about this specific Mercedes A-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes A-Class, or would you prefer to receive more information about this specific Mercedes A-Class model?"
+    },
+    {
+      "model": "Mercedes B-Class",
+      "questions": [
+        "Category: Crossover Body Shape: Hatchback Engine Type: Gasoline Seating Capacity: 5 seater Price Range: 10k-30k"
+      ],
+      "answers": [
+        "For a crossover hatchback with a versatile engine, spacious seating for five, and a price range between 10k-30k, the Mercedes B-Class is an excellent choice.  \nWould you like to check the availability of this Mercedes B-Class, or would you prefer to receive more information about this specific Mercedes B-Class model?",
+        "Looking for a stylish and practical hatchback? The Mercedes B-Class offers a gasoline engine, comfortable seating for five, and a competitive price range of 10k-30k.  \nWould you like to check the availability of this Mercedes B-Class, or would you prefer to receive more information about this specific Mercedes B-Class model?",
+        "The Mercedes B-Class combines compact design, luxury, and affordability. With a gasoline engine, seating for five, and a price range of 10k-30k, it's worth considering.  \nWould you like to check the availability of this Mercedes B-Class, or would you prefer to receive more information about this specific Mercedes B-Class model?",
+        "If you're seeking a premium driving experience in a crossover hatchback, the Mercedes B-Class is a compelling option. With its versatile engine options, comfortable seating for five, and a price range of 10k-30k, it makes for a standout choice.  \nWould you like to check the availability of this Mercedes B-Class, or would you prefer to receive more information about this specific Mercedes B-Class model?",
+        "The Mercedes B-Class delivers the perfect balance of compact crossover and practicality. With a gasoline engine, comfortable seating for five, and a price range of 10k-30k, it's an appealing choice for discerning drivers.  \nWould you like to check the availability of this Mercedes B-Class, or would you prefer to receive more information about this specific Mercedes B-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes B-Class, or would you prefer to receive more information about this specific Mercedes B-Class model?"
+    },
+    {
+      "model": "Mercedes C-Class",
+      "questions": [
+        "I would like another car recommendation with similar features to the Mercedes C-Class",
+        "Category: Luxury Body Shape: Sedan Engine Type: Gasoline Seating Capacity: 5 seater Price Range: 40k-60k"
+      ],
+      "answers": [
+        "Seeking a luxury sedan with a gasoline engine, comfortable seating for five, and a price range between 40k-60k? Look no further than the Mercedes C-Class.  \nWould you like to check the availability of this Mercedes C-Class, or would you prefer to receive more information about this specific Mercedes C-Class model?",
+        "The Mercedes C-Class, a luxury sedan with a powerful gasoline engine, seating for five, and a price range of 40k-70k, seamlessly combines luxury and performance.  \nWould you like to check the availability of this Mercedes C-Class, or would you prefer to receive more information about this specific Mercedes C-Class model?",
+        "If you desire a luxurious or compact luxury sedan with a gasoline engine that doesn't compromise on performance, the Mercedes C-Class is the perfect fit. Featuring spacious seating for five and a price range of 40k-70k, it makes for a compelling option.  \nWould you like to check the availability of this Mercedes C-Class, or would you prefer to receive more information about this specific Mercedes C-Class model?",
+        "For those who appreciate the finer things in life, the Mercedes C-Class stands out as an exceptional luxury or compact luxury sedan. With its powerful gasoline engine options, comfortable seating for five, and a price range of 40k-70k, it offers a truly elevated driving experience.  \nWould you like to check the availability of this Mercedes C-Class, or would you prefer to receive more information about this specific Mercedes C-Class model?",
+        "The Mercedes C-Class sets the standard for luxury or compact luxury sedans. With versatile gasoline engine options, seating for five, and a price range of 40k-70k, it's a top choice for drivers seeking both refinement and performance.  \nWould you like to check the availability of this Mercedes C-Class, or would you prefer to receive more information about this specific Mercedes C-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes C-Class, or would you prefer to receive more information about this specific Mercedes C-Class model?"
+    },      
+    {
+      "model": "Mercedes CLA-Class",
+      "questions": [
+        "I would like another car recommendation with similar features to the Mercedes CLA-Class",
+        "Category: Luxury Body Shape: Coupe-Convertible Engine Type: Diesel Seating Capacity: 5 seater Price Range: 40k-60k"
+      ],
+      "answers": [
+        "If you're searching for a luxurious coupe-convertible with a diesel engine, comfortable seating for five, and a price range between 40k-60k, the Mercedes CLA-Class is a remarkable choice. \nWould you like to check the availability of this Mercedes CLA-Class, or would you prefer to receive more information about this specific Mercedes CLA-Class model?",
+        "The Mercedes CLA-Class epitomizes luxury and performance in the coupe-convertible category. With a diesel engine, seating for five, and a price range of 40k-60k, it's an outstanding option for those who appreciate a blend of elegance and power. \nWould you like to check the availability of this Mercedes CLA-Class, or would you prefer to receive more information about this specific Mercedes CLA-Class model?",
+        "For a luxurious coupe-convertible that excels in both performance and design, consider the Mercedes CLA-Class. Featuring a diesel engine, spacious seating for five, and a price range of 40k-60k, it's a compelling choice for discerning drivers. \nWould you like to check the availability of this Mercedes CLA-Class, or would you prefer to receive more information about this specific Mercedes CLA-Class model?",
+        "Experience the pinnacle of luxury with the Mercedes CLA-Class, a coupe-convertible that seamlessly combines a diesel engine, comfortable seating for five, and a price range of 40k-60k. It redefines elegance and sophistication on the road. \nWould you like to check the availability of this Mercedes CLA-Class, or would you prefer to receive more information about this specific Mercedes CLA-Class model?",
+        "The Mercedes CLA-Class is the epitome of luxury in the coupe-convertible segment. Boasting a powerful diesel engine, seating for five, and a price range of 40k-60k, it sets new standards for refined driving. \nWould you like to check the availability of this Mercedes CLA-Class, or would you prefer to receive more information about this specific Mercedes CLA-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes CLA-Class, or would you prefer to receive more information about this specific Mercedes CLA-Class model?"
+    },
+    {
+      "model": "Mercedes E-Class",
+      "questions": [
+        "Category: Luxury, Body Shape: Sedan, Engine Type: Diesel, Seating Capacity: 5 seater, Price Range: 70k-120k"
+      ],
+      "answers": [
+        "If you're in the market for a luxury sedan with a diesel engine, comfortable seating for five, and a price range between 70k-120k, the Mercedes E-Class is a top-tier choice. \nWould you like to check the availability of this Mercedes E-Class, or would you prefer to receive more information about this specific Mercedes E-Class model?",
+        "The Mercedes E-Class stands as the pinnacle of luxury and performance in the sedan category. Featuring a diesel engine, comfortable seating for five, and a price range of 70k-120k, it's a distinguished option for discerning drivers. \nWould you like to check the availability of this Mercedes E-Class, or would you prefer to receive more information about this specific Mercedes E-Class model?",
+        "For a sedan that seamlessly combines luxury and power, look no further than the Mercedes E-Class. With its impressive diesel engine, seating for five, and a price range of 70k-120k, it delivers an exhilarating driving experience. \nWould you like to check the availability of this Mercedes E-Class, or would you prefer to receive more information about this specific Mercedes E-Class model?",
+        "The Mercedes E-Class exemplifies refined luxury in the sedan segment. Boasting a powerful diesel engine, comfortable seating for five, and a price range of 70k-120k, it's a compelling option for those who appreciate both elegance and performance. \nWould you like to check the availability of this Mercedes E-Class, or would you prefer to receive more information about this specific Mercedes E-Class model?",
+        "With its blend of opulence and dynamic performance, the Mercedes E-Class redefines luxury sedans. Its diesel engine, spacious seating for five, and a price range of 70k-120k make it a standout choice for enthusiasts and connoisseurs alike. \nWould you like to check the availability of this Mercedes E-Class, or would you prefer to receive more information about this specific Mercedes E-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes E-Class, or would you prefer to receive more information about this specific Mercedes E-Class model?"
+    },
+    {
+      "model": "Mercedes S-Class",
+      "questions": [
+        "Category: High Performance Body Shape: Sedan Engine Type: Diesel Seating Capacity: 5 seater Price Range: 70k-120k"
+      ],
+      "answers": [
+        "If you're in search of a luxurious sedan that defines the pinnacle of elegance, the Mercedes S-Class is the ultimate choice. With its powerful diesel engine, comfortable seating for five, and a price range between 70k-120k, it sets the standard for sophistication and performance.  \nWould you like to check the availability of this Mercedes S-Class, or would you prefer to receive more information about this specific Mercedes S-Class model?",
+        "The Mercedes S-Class stands out as an unparalleled luxury sedan. Featuring a robust diesel engine, comfortable seating for five, and a price range of 70k-120k, it delivers an unmatched driving experience.  \nWould you like to check the availability of this Mercedes S-Class, or would you prefer to receive more information about this specific Mercedes S-Class model?",
+        "Experience the epitome of luxury and performance with the Mercedes S-Class sedan. Boasting a diesel engine, seating for five, and a price range of 70k-120k, it offers an extraordinary driving experience.  \nWould you like to check the availability of this Mercedes S-Class, or would you prefer to receive more information about this specific Mercedes S-Class model?",
+        "The Mercedes S-Class sedan combines opulence and power seamlessly. With its potent diesel engine, spacious seating for five, and a price range of 70k-120k, it redefines luxury on the road.  \nWould you like to check the availability of this Mercedes S-Class, or would you prefer to receive more information about this specific Mercedes S-Class model?",
+        "In the realm of luxury sedans, the Mercedes S-Class stands out with its distinctive elegance and dynamic performance. Featuring a powerful diesel engine, comfortable seating for five, and a price range of 70k-120k, it offers a driving experience like no other.  \nWould you like to check the availability of this Mercedes S-Class, or would you prefer to receive more information about this specific Mercedes S-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes S-Class, or would you prefer to receive more information about this specific Mercedes S-Class model?"
+    },
+    {
+      "model": "Mercedes SL-Class",
+      "questions": [
+        "Category: Sports, Body Shape: Coupe-Convertible, Engine Type: Hybrid, Seating Capacity: 2 seater, Price Range: 70k-120k"
+      ],
+      "answers": [
+        "If you're in search of a high-performance sports car, the Mercedes SL-Class is a compelling choice. With its hybrid engine, comfortable seating for two, and a price range of 70k-120k, it offers an exhilarating driving experience. \nWould you like to check the availability of this Mercedes SL-Class, or would you prefer to receive more information about this specific Mercedes SL-Class model?",
+        "The Mercedes SL-Class seamlessly combines sports performance with luxury in a coupe/convertible. Featuring a hybrid engine, spacious seating for two, and a price range of 70k-120k, it's an excellent option for those seeking a refined and thrilling ride. \nWould you like to check the availability of this Mercedes SL-Class, or would you prefer to receive more information about this specific Mercedes SL-Class model?",
+        "With its dynamic performance and exquisite craftsmanship, the Mercedes SL-Class stands out among sports cars. Boasting a hybrid engine, comfortable seating for two, and a price range of 70k-120k, it offers an unmatched driving experience. \nWould you like to check the availability of this Mercedes SL-Class, or would you prefer to receive more information about this specific Mercedes SL-Class model?",
+        "When it comes to a blend of elegance and athleticism, the Mercedes SL-Class exceeds expectations. Its hybrid engine, seating for two, and a price range of 70k-120k make it an enticing choice for discerning drivers. \nWould you like to check the availability of this Mercedes SL-Class, or would you prefer to receive more information about this specific Mercedes SL-Class model?",
+        "The Mercedes SL-Class redefines the notion of sports cars with its striking design and impressive hybrid performance. With spacious seating for two and a price range of 70k-120k, it's a standout option for those seeking the pinnacle of refinement in the sports category. \nWould you like to check the availability of this Mercedes SL-Class, or would you prefer to receive more information about this specific Mercedes SL-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes SL-Class, or would you prefer to receive more information about this specific Mercedes SL-Class model?"
+    },    
+    {
+      "model": "Mercedes SLC-Class",
+      "questions": [
+        "Category: Sports, Body Shape: Coupe-Convertible, Engine Type: Gasoline, Seating Capacity: 2 seater, Price Range: 40k-60k"
+      ],
+      "answers": [
+        "If you're in search of the epitome of sports performance and luxury in a coupe/convertible, the Mercedes SLC-Class is your ultimate choice. Featuring a powerful gasoline engine, comfortable seating for two, and a price range of 40k-60k, it offers an unparalleled driving experience for those who demand the best.  \nWould you like to check the availability of this Mercedes SLC-Class, or would you prefer to receive more information about this specific Mercedes SLC-Class model?",
+        "Unleash uncompromising sports performance and exhilarating power with the Mercedes SLC-Class, the ultimate sports coupe. Equipped with a commanding gasoline engine, spacious seating for two, and a price range of 40k-60k, it sets a new benchmark for sports coupes.  \nWould you like to check the availability of this Mercedes SLC-Class, or would you prefer to receive more information about this specific Mercedes SLC-Class model?",
+        "Experience the pinnacle of sports luxury with the Mercedes SLC-Class. Exceptional sports performance, plush seating for two, and a price range of 40k-60k make it a statement of unrivaled luxury and prestige.  \nWould you like to check the availability of this Mercedes SLC-Class, or would you prefer to receive more information about this specific Mercedes SLC-Class model?",
+        "The Mercedes SLC-Class is a masterpiece of sports engineering, seamlessly blending sports prowess and luxury. Its powerful gasoline engine, seating for two, and a price range of 40k-60k make it an outstanding choice for those seeking the utmost in sports and driving dynamics.  \nWould you like to check the availability of this Mercedes SLC-Class, or would you prefer to receive more information about this specific Mercedes SLC-Class model?",
+        "Desire the ultimate sports coupe with unmatched power and sophistication? Look no further than the Mercedes SLC-Class. With a commanding gasoline engine, spacious seating for two, and a price range of 40k-60k, it offers an extraordinary driving experience that is second to none.  \nWould you like to check the availability of this Mercedes SLC-Class, or would you prefer to receive more information about this specific Mercedes SLC-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes SLC-Class, or would you prefer to receive more information about this specific Mercedes SLC-Class model?"
+    },
+    {
+      "model": "Mercedes G-Class",
+      "questions": [
+        "Category: Crossover, Body Shape: SUV, Engine Type: Gasoline, Seating Capacity: 5 seater, Price Range: 70k-120k"
+      ],
+      "answers": [
+        "The Mercedes G-Class is a luxurious crossover that redefines the driving experience. With its powerful engine options, spacious 5-seater capacity, and a price range of 70k-120k, it combines elegance and performance seamlessly.  \nWould you like to check the availability of this Mercedes G-Class or would you prefer to receive more information about this specific Mercedes G-Class model?",
+        "For those seeking the epitome of luxury in a crossover, the Mercedes G-Class stands out. Boasting a versatile gasoline engine, comfortable seating for five, and a price range of 70k-120k, it sets new standards in sophistication.  \nWould you like to check the availability of this Mercedes G-Class or would you prefer to receive more information about this specific Mercedes G-Class model?",
+        "The Mercedes G-Class is a symbol of luxury and power in the crossover segment. With its refined gasoline engine options, spacious 5-seater capacity, and a price range of 70k-120k, it offers an unparalleled driving experience.  \nWould you like to check the availability of this Mercedes G-Class or would you prefer to receive more information about this specific Mercedes G-Class model?",
+        "If you're in search of a premium crossover with performance and style, the Mercedes G-Class is the answer. Featuring a gasoline engine, seating for five, and a price range of 70k-120k, it delivers a perfect blend of opulence and capability.  \nWould you like to check the availability of this Mercedes G-Class or would you prefer to receive more information about this specific Mercedes G-Class model?",
+        "With its commanding presence and opulent features, the Mercedes G-Class is the pinnacle of luxury crossovers. Boasting a gasoline engine, spacious 5-seater capacity, and a price range of 70k-120k, it redefines what it means to travel in style.  \nWould you like to check the availability of this Mercedes G-Class or would you prefer to receive more information about this specific Mercedes G-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes G-Class or would you prefer to receive more information about this specific Mercedes G-Class model?"
+    },    
+    {
+      "model": "Mercedes GLS-Class",
+      "questions": [
+        "Category: Crossover, Body Shape: SUV, Engine Type: Diesel, Seating Capacity: 7 seater, Price Range: 70k-120k"
+      ],
+      "answers": [
+        "The Mercedes GLS-Class is a luxurious and spacious crossover that epitomizes comfort and style. With its efficient diesel engine, SUV body shape, 7-seater capacity, and a price range of 70k-120k, it offers a premium driving experience for discerning individuals and families.  \nWould you like to check the availability of this Mercedes GLS-Class, or would you prefer to receive more information about this specific Mercedes GLS-Class model?",
+        "For those who prioritize luxury and versatility, the Mercedes GLS-Class is a top-tier crossover choice. Featuring an efficient diesel engine, a spacious SUV body shape, 7-seater capacity, and a price range of 70k-120k, it combines performance with practicality.  \nWould you like to check the availability of this Mercedes GLS-Class, or would you prefer to receive more information about this specific Mercedes GLS-Class model?",
+        "The Mercedes GLS-Class sets the standard for luxury crossovers, delivering a harmonious blend of power and elegance. Boasting an efficient diesel engine, SUV body shape, 7-seater capacity, and a price range of 70k-120k, it represents the pinnacle of family-oriented sophistication.  \nWould you like to check the availability of this Mercedes GLS-Class, or would you prefer to receive more information about this specific Mercedes GLS-Class model?",
+        "If you're in search of a premium crossover that combines performance with comfort, the Mercedes GLS-Class is an exceptional choice. Featuring an efficient diesel engine, a spacious 7-seater interior, and a price range of 70k-120k, it caters to those who demand excellence.  \nWould you like to check the availability of this Mercedes GLS-Class, or would you prefer to receive more information about this specific Mercedes GLS-Class model?",
+        "The Mercedes GLS-Class stands as a symbol of refined luxury in the crossover segment. With its commanding presence, efficient diesel engine, 7-seater capacity, and a price range of 70k-120k, it defines excellence on the road.  \nWould you like to check the availability of this Mercedes GLS-Class, or would you prefer to receive more information about this specific Mercedes GLS-Class model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes GLS-Class, or would you prefer to receive more information about this specific Mercedes GLS-Class model?"
+    },
+    {
+      "model": "Mercedes AMG GT Roadster",
+      "questions": [
+        "Category: Sports Body Shape: Compact-Small Engine Type: Diesel Seat Capacity: 2 seaters Price Range: 70k-120k"
+      ],
+      "answers": [
+        "The Mercedes AMG GT Roadster is a distinctive and powerful sports car that combines the thrill of a diesel engine with luxurious features. With its diesel powertrain, 2-seater capacity, and a price range of 70k-120k, it offers a unique driving experience and a stylish presence on the road. \nWould you like to check the availability of this Mercedes AMG GT Roadster, or would you prefer to receive more information about this specific Mercedes AMG GT Roadster model?",
+        "For enthusiasts seeking a diesel-powered sports car with a compact and small body shape, the Mercedes AMG GT Roadster is a standout choice. Featuring a potent diesel engine, 2-seater capacity, and a price range of 70k-120k, it delivers an exciting blend of performance and style. \nWould you like to check the availability of this Mercedes AMG GT Roadster, or would you prefer to receive more information about this specific Mercedes AMG GT Roadster model?",
+        "Experience the dynamic performance of the Mercedes AMG GT Roadster, a sports car that excels with its diesel engine and sleek design. Boasting a 2-seater capacity and a price range of 70k-120k, it offers a compelling option for those who desire a diesel-powered compact sports car. \nWould you like to check the availability of this Mercedes AMG GT Roadster, or would you prefer to receive more information about this specific Mercedes AMG GT Roadster model?",
+        "The Mercedes AMG GT Roadster redefines diesel-powered sports cars with its powerful engine and compact design. With a 2-seater capacity and a price range of 70k-120k, it delivers an exhilarating driving experience and a distinctive presence on the road. \nWould you like to check the availability of this Mercedes AMG GT Roadster, or would you prefer to receive more information about this specific Mercedes AMG GT Roadster model?",
+        "In the realm of compact and small sports cars, the Mercedes AMG GT Roadster stands out with its diesel engine performance. Featuring a 2-seater capacity and a price range of 70k-120k, it offers a unique combination of power and sophistication. \nWould you like to check the availability of this Mercedes AMG GT Roadster, or would you prefer to receive more information about this specific Mercedes AMG GT Roadster model?"
+      ],
+      "followup": "\nWould you like to check the availability of this Mercedes AMG GT Roadster, or would you prefer to receive more information about this specific Mercedes AMG GT Roadster model?"
+    },
+    {
+      "model": "EQA",
+      "questions": [
+        "Category: High-Performance, Body Shape: SUV, Engine Type: Electric, Seating Capacity: 5 seater, Price Range: 40k-60k"
+      ],
+      "answers": [
+        "The EQA is a high-performance marvel with an all-electric engine, an SUV body shape, a 5-seater capacity, and an attractive price range of 40k-60k. It delivers a thrilling driving experience and a stylish presence on the road. \nWould you like to check the availability of this EQA or would you prefer to receive more information about this specific EQA model?",
+        "For those seeking high-performance in an electric SUV, the EQA is the perfect choice. Featuring an electric engine, a 5-seater capacity, SUV body shape, and a price range of 40k-60k, it offers a dynamic blend of sportiness and luxury. \nWould you like to check the availability of this EQA or would you prefer to receive more information about this specific EQA model?",
+        "Experience the future of driving with the EQA, a high-performance electric SUV that commands attention. With its electric engine, 5-seater capacity, SUV body shape, and a price range of 40k-60k, it delivers a luxurious and dynamic driving experience. \nWould you like to check the availability of this EQA or would you prefer to receive more information about this specific EQA model?",
+        "The EQA redefines high-performance with its sleek electric design, SUV body shape, 5-seater capacity, and a price range of 40k-60k. It's not just an electric SUV; it's a statement of eco-friendly luxury on the road. \nWould you like to check the availability of this EQA or would you prefer to receive more information about this specific EQA model?",
+        "Embrace the future of driving with the EQA, a high-performance electric SUV that marries practicality and eco-friendliness. Featuring an electric engine, a 5-seater capacity, SUV body shape, and a price range of 40k-60k, it offers a thrilling driving experience and an elegant interior. \nWould you like to check the availability of this EQA or would you prefer to receive more information about this specific EQA model?"
+      ],
+      "followup": "\nWould you like to check the availability of this EQA or would you prefer to receive more information about this specific EQA model?"
+    },
+    {
+      "model": "EQB",
+      "questions": [
+        "Category: Electric, Body Shape: SUV, Engine Type: Electric, Seating Capacity: 7 seater, Price Range: 40k-60k"
+      ],
+      "answers": [
+        "The EQB is a cutting-edge electric SUV that seamlessly blends sustainability with luxury and performance. With its electric powertrain, SUV body shape, 7-seater capacity, and a price range of 40k-60k, it offers a revolutionary driving experience and a spacious interior. \nWould you like to check the availability of this EQB, or would you prefer to receive more information about this specific EQB model?",
+        "If you're looking for an eco-friendly and versatile SUV, the EQB is the perfect choice. Powered by electricity, with a 7-seater capacity, SUV body shape, and a price range of 40k-60k, it redefines the driving experience with efficiency and style. \nWould you like to check the availability of this EQB, or would you prefer to receive more information about this specific EQB model?",
+        "The EQB sets a new standard for electric SUVs, combining a sleek design with advanced technology. Featuring an electric powertrain, 7-seater capacity, SUV body shape, and a price range of 40k-60k, it delivers an environmentally conscious and luxurious driving experience. \nWould you like to check the availability of this EQB, or would you prefer to receive more information about this specific EQB model?",
+        "With its innovative electric propulsion, the EQB stands out as a leader in the electric SUV segment. Boasting a 7-seater capacity, SUV body shape, electric engine, and a price range of 40k-60k, it offers a premium and sustainable driving solution. \nWould you like to check the availability of this EQB, or would you prefer to receive more information about this specific EQB model?",
+        "Experience the future of driving with the EQB, a top-tier electric SUV. Featuring an electric powertrain, 7-seater capacity, SUV body shape, and a price range of 40k-60k, it combines environmental consciousness with luxurious comfort for a truly unique driving experience. \nWould you like to check the availability of this EQB, or would you prefer to receive more information about this specific EQB model?"
+      ],
+      "followup": "\nWould you like to check the availability of this EQB, or would you prefer to receive more information about this specific EQB model?"
+    },
+    {
+      "model": "EQC",
+      "questions": [
+        "Category: Electric Body Shape: SUV Engine Type: Electric Seating Capacity: 5 seater Price Range: 70k-120k"
+      ],
+      "answers": [
+        "The EQC is an innovative electric SUV that perfectly balances power, luxury, and style. Featuring an electric engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it delivers an electrifying driving experience and a distinct presence on the road.  \nWould you like to check the availability of this EQC, or would you prefer to receive more information about this specific EQC model?",
+        "For those in search of a distinctive and high-performance electric SUV, the EQC is the ultimate choice. With its electric engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it offers an exhilarating blend of sportiness, luxury, and adaptability.  \nWould you like to check the availability of this EQC, or would you prefer to receive more information about this specific EQC model?",
+        "The EQC stands out with its unique SUV design and a commanding presence on the road. Boasting an electric engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it provides a luxurious and dynamic driving experience that sets it apart in the electric SUV category.  \nWould you like to check the availability of this EQC, or would you prefer to receive more information about this specific EQC model?",
+        "With a sleek and sporty appearance, the EQC is engineered to make a statement. Its powerful electric engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k make it an enticing choice for those seeking a blend of performance and style in an electric SUV.  \nWould you like to check the availability of this EQC, or would you prefer to receive more information about this specific EQC model?",
+        "The EQC seamlessly combines the practicality of an SUV with the efficiency of an electric vehicle. Featuring an electric engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it offers a thrilling driving experience and a luxurious cabin that radiates elegance.  \nWould you like to check the availability of this EQC, or would you prefer to receive more information about this specific EQC model?"
+      ],
+      "followup": "\nWould you like to check the availability of this EQC, or would you prefer to receive more information about this specific EQC model?"
+    },
+    {
+      "model": "EQE",
+      "questions": [
+        "Category: Electric, Body Shape: Sedan, Engine Type: Electric, Seating Capacity: 5 seater, Price Range: 70k-120k"
+      ],
+      "answers": [
+        "The EQE is a cutting-edge electric sedan that seamlessly blends luxury and performance. With its electric powertrain, sedan body shape, 5-seater capacity, and a price range of 70k-120k, it offers an electrifying driving experience and a sophisticated presence on the road.  \nWould you like to check the availability of this EQE or would you prefer to receive more information about this specific EQE model?",
+        "If you're seeking an innovative and high-performance electric sedan, look no further than the EQE. Featuring an electric powertrain, 5-seater capacity, sedan body shape, and a price range of 70k-120k, it delivers an exhilarating blend of sustainability, luxury, and cutting-edge technology.  \nWould you like to check the availability of this EQE or would you prefer to receive more information about this specific EQE model?",
+        "The EQE sets new standards in electric luxury sedans with its sleek design and advanced features. Boasting an electric powertrain, 5-seater capacity, sedan body shape, and a price range of 70k-120k, it provides a luxurious and environmentally conscious driving experience.  \nWould you like to check the availability of this EQE or would you prefer to receive more information about this specific EQE model?",
+        "With its state-of-the-art design, the EQE is a pinnacle of electric luxury. Its advanced electric powertrain, sedan body shape, 5-seater capacity, and a price range of 70k-120k make it a compelling choice for those who prioritize sustainability without compromising on style.  \nWould you like to check the availability of this EQE or would you prefer to receive more information about this specific EQE model?",
+        "The EQE redefines electric luxury sedans, seamlessly integrating performance and elegance. Featuring an electric powertrain, 5-seater capacity, sedan body shape, and a price range of 70k-120k, it offers a sophisticated driving experience and a cabin that reflects the future of automotive luxury.  \nWould you like to check the availability of this EQE or would you prefer to receive more information about this specific EQE model?"
+      ],
+      "followup": "\nWould you like to check the availability of this EQE or would you prefer to receive more information about this specific EQE model?"
+    },
+    {
+      "model": "EQS",
+      "questions": [
+        "Category: High Performance Body Shape: Sedan Engine Type: Electric Seating Capacity: 5 seater Price Range: 70k-120k"
+      ],
+      "answers": [
+        "The EQS is a bold and innovative high performance sedan that combines power, luxury, and style. With its electric engine, sedan body shape, 5-seater capacity, and a price range of 70k-120k, it offers a thrilling driving experience and a striking presence on the road.  \nWould you like to check the availability of this EQS or would you prefer to receive more information about this specific EQS model?",
+        "If you're searching for a unique and performance-oriented electric sedan, look no further than the EQS. Boasting an electric engine, 5-seater capacity, sedan body shape, and a price range of 70k-120k, it delivers an exhilarating blend of sportiness, luxury, and sustainability.  \nWould you like to check the availability of this EQS or would you prefer to receive more information about this specific EQS model?",
+        "The EQS is a true head-turner with its distinctive sedan design and commanding presence. Featuring an electric engine, 5-seater capacity, sedan body shape, and a price range of 70k-120k, it offers a luxurious and dynamic driving experience that sets it apart from traditional sedans.  \nWould you like to check the availability of this EQS or would you prefer to receive more information about this specific EQS model?",
+        "With its sleek and futuristic appearance, the EQS is designed to make a statement. Its powerful electric engine, sedan body shape, 5-seater capacity, and a price range of 70k-120k make it a captivating choice for those who seek a combination of performance and style in an electric sedan.  \nWould you like to check the availability of this EQS or would you prefer to receive more information about this specific EQS model?",
+        "The EQS combines the best of both worlds  the sustainability of a high performance vehicle and the luxury of a sedan. With its electric engine, 5-seater capacity, sedan body shape, and a price range of 70k-120k, it offers a thrilling driving experience and a luxurious cabin that exudes elegance.  \nWould you like to check the availability of this EQS or would you prefer to receive more information about this specific EQS model?"
+      ],
+      "followup": "\nWould you like to check the availability of this EQS or would you prefer to receive more information about this specific EQS model?"
+    },
+    {
+      "model": "GLE 580",
+      "questions": [
+        "Category: High Performance, Body Shape: SUV, Engine Type: Gasoline, Seating Capacity: 5 seater, Price Range: 70k-120k"
+      ],
+      "answers": [
+        "If you're in search of a high-performance SUV that combines advanced technology with a refined driving experience, the GLE 580 is an exceptional choice. With its powerful gasoline engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it offers a harmonious blend of performance and elegance. \nWould you like to check the availability of this GLE 580, or would you prefer to receive more information about this specific GLE 580 model?",
+        "The GLE 580 stands out as a pinnacle of luxury and high performance in the SUV category. Featuring a robust gasoline engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it embodies sophistication and innovation. \nWould you like to check the availability of this GLE 580, or would you prefer to receive more information about this specific GLE 580 model?",
+        "Experience the epitome of luxury and high performance with the GLE 580. Its powerful gasoline engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k make it a symbol of opulence and comfort on the road. \nWould you like to check the availability of this GLE 580, or would you prefer to receive more information about this specific GLE 580 model?",
+        "The GLE 580 is a high-performance SUV that redefines expectations. With its powerful gasoline engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it offers a perfect blend of power, style, and cutting-edge technology. \nWould you like to check the availability of this GLE 580, or would you prefer to receive more information about this specific GLE 580 model?",
+        "Step into luxury and high performance with the GLE 580, a masterclass in sophistication. Boasting a powerful gasoline engine, 5-seater capacity, SUV body shape, and a price range of 70k-120k, it delivers an unparalleled driving experience. \nWould you like to check the availability of this GLE 580, or would you prefer to receive more information about this specific GLE 580 model?"
+      ],
+      "followup": "\nWould you like to check the availability of this GLE 580, or would you prefer to receive more information about this specific GLE 580 model?"
+    },    
+    
+    
+    {
+      "model": "greetings",
+      "questions": [
+        "hello Mercedes chatbot",
+        "Hi Mercedes chatbot",
+        "Hey Mercedes chatbot",
+        "Greetings Mercedes chatbot",
+        "Good morning Mercedes chatbot",
+        "Good afternoon Mercedes chatbot",
+        "Good evening Mercedes chatbot",
+        "Welcome Mercedes chatbot",
+        "Salutations Mercedes chatbot",
+        "Howdy Mercedes chatbot",
+        "Yo Mercedes chatbot",
+        "What's up Mercedes chatbot",
+        "Nice to meet you Mercede schatbot",
+        "Pleasure to meet you Mercedes chatbot",
+        "Good to see you Mercedes chatbot",
+        "How are you Mercedes chatbot",
+        "How's it going Mercedes chatbot",
+        "How have you been Mercedes chatbot",
+        "Long time no see Mercedes chatbot",
+        "What's new Mercedes chatbot",
+        "What's happening Mercedes chatbot",
+        "How's everything Mercedes chatbot",
+        "Hope you're well Mercedes chatbot",
+        "Hope all is well Mercedes chatbot",
+        "Good day Mercedes chatbot",
+        "Bonjour Mercedes chatbot",
+        "Hola Mercedes chatbot",
+        "Ciao Mercedes chatbot",
+        "Guten Tag Mercedes chatbot",
+        "Namaste Mercedeschatbot",
+        "Hello, can you assist me? Mercedes chatbot",
+        "Welcome! may you help me? Mercedes chatbot",
+        "Hi there! Mercedes chatbot",
+        "Good day! can you serve me? Mercedes chatbot",
+        "Hello ",
+        "Hi ",
+        "Hey",
+        "Greetings",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Welcome",
+        "Salutations",
+        "Howdy",
+        "Yo",
+        "What's up",
+        "Nice to meet you",
+        "Pleasure to meet you",
+        "Good to see you",
+        "How are you",
+        "How's it going",
+        "How have you been",
+        "Long time no see",
+        "What's new",
+        "What's happening",
+        "How's everything",
+        "Hope you're well",
+        "Hope all is well",
+        "Good day",
+        "Bonjour",
+        "Hola",
+        "Ciao",
+        "Guten Tag",
+        "Namaste",
+        "Hello, can you assist me?",
+        "Welcome! may you help me?",
+        "Hi there!",
+        "Good day! can you serve me?"
+      ],
+      "answers": [
+        "Hello, I am here to assist you!  \nHere you can find a list of all cars that we usually have in our showroom, in addition to all services that I, The Mercedes Chatbot, can provide and assist you with.  \n\nCar Models:  \n\n A-Class:A200\n B-Class: B200 \n C-Class:  C300\n  CLA-Class: CLA 45\n E-Class:  E350\n  S-Class:  S500\n  SL-Class:  250SL \n  SLC-Class:SLC 43 AMG\n G-class:G 63 AMG\n \n AMG GT:AMG GT Roadster\n  GLE-Class: GLE 580 \n GLS-Class :GLS 63\n  EQA \n  EQB \n  EQC \n  EQE \n  EQS \nMy Services: \n\n- Recommend car models based on customer requirements.  \n\n- Check for car availability in our showroom.  \n\n- Giving the customer extensive information on any chosen model from the above.  \n\n\n** In case you would like me to recommend  for you a car model based on your requirements then please give your message in the following format:-   \n\nCategory: Luxury/Sports/Electric/High-performance/Crossover  \nbody shape: compact-small/Sedan/Coupe-convertible/SUV  \n  engine type: gasoline/diesel/hybrid/electric  \nseat capacity: 2 Seaters/5 seaters/7 Seaters  \nprice range: 10k-30k/40k-60k/70-120k    ...             Please supply me with the car requirements that you would like me to recommend.",
+        "Greetings! I'm here to offer my assistance!  \nBelow, you'll find a comprehensive list of car models typically available in our showroom, along with the range of services I, The Mercedes Chatbot, can provide to support and guide you.  \n\nList of Car Models: A-Class:A200  \n B-Class: B200  \n  C-Class:  C300\n CLA-Class: CLA 45\n E-Class:  E350\n  S-Class:S500\n  SL-Class: 250SL \n SLC-Class:  SLC 43 AMG\n  G-class:G 63 AMG\n GLE-Class: GLE 580\n GLS-Class :GLS 63\n  AMG GT: AMG GT Roadster\n    EQA \n  EQB \n  EQC \n  EQE \n  EQS \nMy Services:  \n\nProviding car model recommendations based on customer requirements.  \nChecking the availability of specific car models in our showroom.  \nOffering detailed information about any chosen model from the list above.  \n** If you'd like me to recommend a car model based on your preferences, please format your message as follows:  \n\nCategory: Luxury/Sports/Electric/High-performance/Crossover  \nBody shape: Compact-Small/Sedan/Coupe-Convertible/SUV  \nEngine type: Gasoline/Diesel/Hybrid/Electric  \nSeat capacity: 2 Seaters/5 Seaters/7 Seaters  \nPrice range: 10k-30k/40k-60k/70k-120k        ...         Please supply me with the car requirements that you would like me to recommend.",
+        "Hello there! I'm here to provide you with assistance.  \nHere, you'll discover a comprehensive inventory of car models typically available at our showroom, alongside the range of services I, The Mercedes Chatbot, can offer to support and aid you.  \n\nCar Models:  \n B-Class: B200  \n  C-Class:  C300\n CLA-Class: CLA 45\n  E-Class:  E350\n  S-Class:  S500\n  SL-Class:  250SL \n  SLC-Class:  SLC 43 AMG\n  G-class:G 63 AMG\n GLE-Class: GLE 580\n GLS-Class :GLS 63\n  AMG GT: AMG GT Roadster \n  EQA \n  EQB \n  EQC \n  EQE \n  EQS\nServices Offered:  \n\nRecommending car models based on customer requirements.  \nVerifying car availability at our showroom.  \nProviding in-depth information on any selected model from the aforementioned list.  \n** In case you wish for me to recommend a car model based on your preferences, kindly format your message in the following manner:  \n\nCategory: Luxury/Sports/Electric/High-performance/Crossover  \nBody shape: Compact-Small/Sedan/Coupe-Convertible/SUV  \nEngine type: Gasoline/Diesel/Hybrid/Electric  \nSeat capacity: 2 Seaters/5 Seaters/7 Seaters  \nPrice range: 10k-30k/40k-60k/70-120k      ...            Please supply me with the car requirements that you would like me to recommend."
+      ],
+      "followup": "Please supply me with the car requirements that you would like me to recommend."
+    },
+    {
+      "model": "gratitude",
+      "questions": [
+        "Thank you Mercedes chatbot",
+        "Thanks Mercedes chatbot",
+        "I appreciate it Mercedes chatbot",
+        "I'm grateful Mercedes chatbot",
+        "Many thanks Mercedes chatbot",
+        "Thank you so much Mercedes chatbot",
+        "Thank you very much Mercedes chatbot",
+        "I'm thankful Mercedes chatbot",
+        "Much obliged Mercedes chatbot",
+        "I owe you one Mercedes chatbot",
+        "I'm indebted to you Mercedes chatbot",
+        "I can't thank you enough Mercedes chatbot",
+        "You're amazing Mercedes chatbot",
+        "You're a lifesaver Mercedes chatbot",
+        "I'm so thankful for your help Mercedes chatbot",
+        "I'm grateful for your support Mercedes chatbot",
+        "It means a lot to me Mercedes chatbot",
+        "I'm deeply grateful Mercedes chatbot",
+        "I'm so grateful for everything Mercedes chatbot",
+        "Goodbye Mercedes chatbot",
+        "bye Mercedes chatbot",
+        "Farewell Mercedes chatbot",
+        "See you later Mercedes chatbot",
+        "Take care Mercedes chatbot",
+        "Bye Bye Bye Mercedes chatbot",
+        "Bye Bye Mercedes chatbot",
+        "Bye Mercedes chatbot",
+        "Have a great day Mercedes chatbot",
+        "Have a wonderful day Mercedes chatbot",
+        "Have a nice day Mercedes chatbot",
+        "Have a good one Mercedes chatbot",
+        "Until we meet again Mercedes chatbot",
+        "Catch you later Mercedes chatbot",
+        "All the best Mercedes chatbot",
+        "So long Mercedes chatbot",
+        "Adios Mercedes chatbot",
+        "Toodle-oo Mercedesc hatbot",
+        "See you soon Mercedes chatbot",
+        "Take it easy Mercedes chatbot",
+        "Stay safe Mercedes chatbot",
+        "Enjoy the rest of your day Mercedes chatbot",
+        "Thank you",
+        "Thanks",
+        "I appreciate it",
+        "I'm grateful",
+        "Many thanks",
+        "Thank you so much",
+        "Thank you very much",
+        "I'm thankful",
+        "Much obliged",
+        "I owe you one",
+        "I'm indebted to you",
+        "I can't thank you enough",
+        "You're amazing",
+        "You're a lifesaver",
+        "I'm so thankful for your help",
+        "I'm grateful for your support",
+        "It means a lot to me",
+        "I'm deeply grateful",
+        "I'm so grateful for everything",
+        "Goodbye",
+        "Farewell",
+        "See you later",
+        "Take care",
+        "Bye bye bye bye bye bye ",
+        "Have a great day",
+        "Have a wonderful day",
+        "Have a nice day",
+        "Have a good one",
+        "Until we meet again",
+        "Catch you later",
+        "All the best",
+        "So long",
+        "Adios",
+        "Toodle-oo",
+        "See you soon",
+        "Take it easy",
+        "Stay safe",
+        "Enjoy the rest of your day"
+
+      ],
+      "answers": [
+        "You're appreciated! I'm pleased to have been of help. Should you have additional questions, don't hesitate to inquire.      \n I'm here and available to assist you whenever you need :).",
+        "It was my pleasure to help you. If you need further assistance, don't hesitate to reach out.      \n I'm here and available to assist you whenever you need :).",
+        "Feel free to inquire if you have any more questions or if there's anything else you'd like to know. You're welcome!.      \n I'm here and available to assist you whenever you need :).",
+        "You're most welcome! If there's anything else I can assist you with, please let me know.     \n I'm here and available to assist you whenever you need :)."
+      ],
+      "followup": "\n I'm here and available to assist you whenever you need. :). "
+    }
+  ]
+}
