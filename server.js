@@ -13,7 +13,7 @@ const main = http.createServer((req, res) => {
     res.end('Testing route works!\n');
   } else {
     // For all other requests
-    res.end('Hello, World!\n');
+    res.end('Hello, World---!\n');
   }
 });
 const io = socketIO(main, {
@@ -131,7 +131,7 @@ function keywordSpottingAlgorithm(input, chatHistory) {
 }
 
 
-const port = 8000;
+const port = process.env.PORT || 8000
 
 main.listen(port, () => {
 
